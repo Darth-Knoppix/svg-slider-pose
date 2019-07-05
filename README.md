@@ -1,3 +1,9 @@
+# SVG Slider using Pose
+This is a slider created with an SVG. The knob responds to the mouse and is animated using Pose.
+
+An explanation of how it was achieved and some more context about it can be found here:
+[Make a complex slider in React using SVG](https://blog.sethcorker.com/make-a-complex-slider-in-react-using-svg/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
